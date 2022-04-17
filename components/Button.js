@@ -1,4 +1,4 @@
-import { TouchableOpacity, Image, View, Text } from "react-native";
+import { TouchableOpacity, Image, Text } from "react-native";
 import { COLORS, FONTS, SHADOWS, SIZES } from "../constants";
 
 export const CircleButton = ({ imgUrl, handlePress, ...props }) => {
